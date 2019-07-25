@@ -1,0 +1,18 @@
+{
+  "name": "ymca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node ./node_modules/gulp/bin/gulp.js serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-cli": "^2.1.0",
+    "gulp-inline-css": "^3.3.1"
+  }
+}
